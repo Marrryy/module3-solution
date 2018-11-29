@@ -42,7 +42,7 @@
     }
     #nav-list{
       text-align: center;
-      background-color: #fff8b3;
+      background-color: #e5805b;
     }
     h2{
       font-family: 'Pacifico', cursive;
@@ -50,5 +50,8 @@
       margin-top: 5px;
       }
     .navbar-brand a:hover, .navbar-brand a:focus {
-  text-decoration: none;
-}
+      text-decoration: none;
+    }
+    a > li{
+      font-size: 1.5em;
+    }
